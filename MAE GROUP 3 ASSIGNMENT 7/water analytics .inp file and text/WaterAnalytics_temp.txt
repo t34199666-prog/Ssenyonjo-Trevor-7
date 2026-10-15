@@ -1,0 +1,324 @@
+  Page 1                                    Thu Oct 15 15:24:40 2026
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                          Version 2.3.05                        *
+  ******************************************************************
+  
+  Analysis begun Thu Oct 15 15:24:45 2026
+
+  Analysis begun Thu Oct 15 15:24:45 2026
+
+  Analysis begun Thu Oct 15 15:24:46 2026
+
+  Analysis begun Thu Oct 15 15:24:46 2026
+
+  Analysis begun Thu Oct 15 15:24:46 2026
+
+  Error 307: cannot read hydraulics file
+  Analysis ended Thu Oct 15 15:24:47 2026
+
+  Analysis begun Thu Oct 15 15:24:47 2026
+
+  Error 307: cannot read hydraulics file
+  Analysis ended Thu Oct 15 15:24:47 2026
+4: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 78.3770 AT TIME 004:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 89.6985 AT TIME 005:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 75.8304 AT TIME 006:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 74.3857 AT TIME 007:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 84.0404 AT TIME 008:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 66.8353 AT TIME 009:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 74.9428 AT TIME 010:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 87.0256 AT TIME 011:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 77.2398 AT TIME 012:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.3553 AT TIME 013:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 82.1592 AT TIME 014:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 77.5796 AT TIME 015:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 67.4020 AT TIME 016:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 79.9925 AT TIME 017:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 62.5045 AT TIME 018:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 78.7788 AT TIME 019:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 79.8283 AT TIME 020:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 81.8926 AT TIME 021:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 86.7226 AT TIME 022:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 89.4691 AT TIME 023:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 83.0709 AT TIME 024:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 77.4434 AT TIME 025:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 87.8494 AT TIME 026:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 77.4027 AT TIME 027:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 60.5095 AT TIME 028:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 63.6258 AT TIME 029:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.8813 AT TIME 030:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 74.5289 AT TIME 031:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.3457 AT TIME 032:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 66.2822 AT TIME 033:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 76.5687 AT TIME 034:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 78.8965 AT TIME 035:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 60.9597 AT TIME 036:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 78.4414 AT TIME 037:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 70.8723 AT TIME 038:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 61.4860 AT TIME 039:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 74.6871 AT TIME 040:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 65.7753 AT TIME 041:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 63.6925 AT TIME 042:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 66.1648 AT TIME 043:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 64.3954 AT TIME 044:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 65.6722 AT TIME 045:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 61.2796 AT TIME 046:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 79.0559 AT TIME 047:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 68.4560 AT TIME 048:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 76.1579 AT TIME 049:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 80.8549 AT TIME 050:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 74.9735 AT TIME 051:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 76.0740 AT TIME 052:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 73.3555 AT TIME 053:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 63.7180 AT TIME 054:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 74.7107 AT TIME 055:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.5899 AT TIME 056:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 86.2178 AT TIME 057:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 68.1088 AT TIME 058:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 66.2538 AT TIME 059:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 76.9494 AT TIME 060:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 79.2094 AT TIME 061:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 72.5109 AT TIME 062:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 66.1793 AT TIME 063:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 88.4380 AT TIME 064:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 62.4621 AT TIME 065:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 63.1713 AT TIME 066:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 64.2612 AT TIME 067:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 64.9938 AT TIME 068:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 78.6288 AT TIME 069:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 77.2113 AT TIME 070:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 61.5623 AT TIME 071:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 87.9360 AT TIME 072:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 81.8599 AT TIME 073:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 82.1352 AT TIME 074:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 61.9021 AT TIME 075:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.8132 AT TIME 076:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 88.0322 AT TIME 077:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 89.5319 AT TIME 078:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.7682 AT TIME 079:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 83.5668 AT TIME 080:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 75.4013 AT TIME 081:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 65.3281 AT TIME 082:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 71.9577 AT TIME 083:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 64.0179 AT TIME 084:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 60.9267 AT TIME 085:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 88.1743 AT TIME 086:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 69.0392 AT TIME 087:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 68.8660 AT TIME 088:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 69.9881 AT TIME 089:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 74.0120 AT TIME 090:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 79.4460 AT TIME 091:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 60.7568 AT TIME 092:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.2662 AT TIME 093:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 76.7710 AT TIME 094:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 85.6230 AT TIME 095:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 70.4364 AT TIME 096:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 73.3808 AT TIME 097:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 61.6272 AT TIME 098:00:00
+
+  Error 204: undefined link VALVE-173 in [CONTROLS] section:
+  LINK VALVE-173 65.3132 AT TIME 099:00:00
+
+  Error 200: one or more errors in input file
+  Analysis begun Thu Oct 15 15:24:54 2026
+
+  Analysis ended Thu Oct 15 15:24:54 2026
+
+  Analysis begun Thu Oct 15 15:24:54 2026
+
+  Analysis begun Thu Oct 15 15:24:54 2026
+
+  Analysis begun Thu Oct 15 15:24:54 2026
